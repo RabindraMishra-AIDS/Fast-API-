@@ -99,6 +99,3 @@ We welcome contributions to improve this project! Follow these steps to contribu
 - `/reportcard/{student_id}`: Deletes a report card by `student_id`.
 
 ---
-
-## **License**
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
